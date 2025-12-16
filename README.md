@@ -1,4 +1,4 @@
-# EXP-3
+i# EXP-3
 EXPT NO: 3				STAIR CASE WIRING                     
 
  
@@ -41,10 +41,12 @@ switch2.
 
 Direct connection: CIRCUIT DIAGRAM: 
 Tabulation:1
-	
+![Uploading Screenshot 2025-12-16 100552.png…]()
+
 Cross connection: CIRCUIT DIAGRAM:
 
 Tabulation:2
+<img width="259" height="139" alt="Screenshot 2025-12-16 100600" src="https://github.com/user-attachments/assets/97e8c9e3-4c8c-4b2f-aa78-804c6f64a344" />
 
 RESULT:
 Thus the staircase wiring is connected and tested.
